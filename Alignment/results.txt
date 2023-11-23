@@ -1,0 +1,768 @@
+A01	T_a-rareT	775	774
+A01	T_c-rareG	722	720
+A01	T_t-rareA		0
+A01	T_g-rareA		0
+A02	T_a-rareT	582	582
+A02	T_c-rareG	697	686
+A02	T_t-rareA		0
+A02	T_g-rareA		0
+A03	T_a-rareT	613	600
+A03	T_c-rareG	656	618
+A03	T_t-rareA		0
+A03	T_g-rareA		0
+A04	T_a-rareT	798	767
+A04	T_c-rareG	606	499
+A04	T_t-rareA		0
+A04	T_g-rareA		0
+A05	T_a-rareT	501	425
+A05	T_c-rareG	563	339
+A05	T_t-rareA		0
+A05	T_g-rareA		0
+A06	T_a-rareT	697	468
+A06	T_c-rareG	577	121
+A06	T_t-rareA		0
+A06	T_g-rareA		0
+A07	T_a-rareT	806	804
+A07	T_c-rareG	193	193
+A07	T_t-rareA		0
+A07	T_g-rareA		0
+A08	T_a-rareT	443	442
+A08	T_c-rareG	144	144
+A08	T_t-rareA		0
+A08	T_g-rareA		0
+A09	T_a-rareT	628	627
+A09	T_c-rareG	241	239
+A09	T_t-rareA		0
+A09	T_g-rareA		0
+A10	T_a-rareT	582	561
+A10	T_c-rareG	334	327
+A10	T_t-rareA		0
+A10	T_g-rareA		0
+A11	T_a-rareT	126	76
+A11	T_c-rareG	46	40
+A11	T_t-rareA		0
+A11	T_g-rareA		0
+A12	T_a-rareT	81	32
+A12	T_c-rareG	49	26
+A12	T_t-rareA		0
+A12	T_g-rareA		0
+B01	T_a-rareT	874	874
+B01	T_c-rareG	937	935
+B01	T_t-rareA		0
+B01	T_g-rareA		0
+B02	T_a-rareT	572	572
+B02	T_c-rareG	654	651
+B02	T_t-rareA		0
+B02	T_g-rareA		0
+B03	T_a-rareT	495	488
+B03	T_c-rareG	381	354
+B03	T_t-rareA		0
+B03	T_g-rareA		0
+B04	T_a-rareT	653	631
+B04	T_c-rareG	567	475
+B04	T_t-rareA		0
+B04	T_g-rareA		0
+B05	T_a-rareT	451	383
+B05	T_c-rareG	406	228
+B05	T_t-rareA		0
+B05	T_g-rareA		0
+B06	T_a-rareT	511	330
+B06	T_c-rareG	448	108
+B06	T_t-rareA		0
+B06	T_g-rareA		0
+B07	T_a-rareT	497	496
+B07	T_c-rareG	165	165
+B07	T_t-rareA		0
+B07	T_g-rareA		0
+B08	T_a-rareT	746	745
+B08	T_c-rareG	255	255
+B08	T_t-rareA		0
+B08	T_g-rareA		0
+B09	T_a-rareT	347	346
+B09	T_c-rareG	136	136
+B09	T_t-rareA		0
+B09	T_g-rareA		0
+B10	T_a-rareT	472	459
+B10	T_c-rareG	286	281
+B10	T_t-rareA		0
+B10	T_g-rareA		0
+B11	T_a-rareT	77	52
+B11	T_c-rareG	108	87
+B11	T_t-rareA		0
+B11	T_g-rareA		0
+B12	T_a-rareT	85	27
+B12	T_c-rareG	63	26
+B12	T_t-rareA		0
+B12	T_g-rareA		0
+C01	T_a-rareT	717	717
+C01	T_c-rareG	710	707
+C01	T_t-rareA	1	1
+C01	T_g-rareA		0
+C02	T_a-rareT	833	833
+C02	T_c-rareG	591	590
+C02	T_t-rareA	1	1
+C02	T_g-rareA		0
+C03	T_a-rareT	741	738
+C03	T_c-rareG	540	539
+C03	T_t-rareA		0
+C03	T_g-rareA		0
+C04	T_a-rareT	927	915
+C04	T_c-rareG	385	379
+C04	T_t-rareA		0
+C04	T_g-rareA		0
+C05	T_a-rareT	412	374
+C05	T_c-rareG	748	688
+C05	T_t-rareA		0
+C05	T_g-rareA		0
+C06	T_a-rareT	859	601
+C06	T_c-rareG	607	459
+C06	T_t-rareA		0
+C06	T_g-rareA		0
+C07	T_a-rareT	940	940
+C07	T_c-rareG	639	639
+C07	T_t-rareA		0
+C07	T_g-rareA		0
+C08	T_a-rareT	911	911
+C08	T_c-rareG	633	632
+C08	T_t-rareA		0
+C08	T_g-rareA		0
+C09	T_a-rareT	679	678
+C09	T_c-rareG	640	638
+C09	T_t-rareA		0
+C09	T_g-rareA		0
+C10	T_a-rareT	536	535
+C10	T_c-rareG	470	465
+C10	T_t-rareA	1	1
+C10	T_g-rareA		0
+C11	T_a-rareT	295	286
+C11	T_c-rareG	174	168
+C11	T_t-rareA		0
+C11	T_g-rareA		0
+C12	T_a-rareT	84	81
+C12	T_c-rareG	133	125
+C12	T_t-rareA		0
+C12	T_g-rareA		0
+D01	T_a-rareT	674	674
+D01	T_c-rareG	623	622
+D01	T_t-rareA		0
+D01	T_g-rareA		0
+D02	T_a-rareT	1106	1104
+D02	T_c-rareG	742	740
+D02	T_t-rareA		0
+D02	T_g-rareA		0
+D03	T_a-rareT	638	637
+D03	T_c-rareG	604	599
+D03	T_t-rareA		0
+D03	T_g-rareA		0
+D04	T_a-rareT	922	911
+D04	T_c-rareG	801	791
+D04	T_t-rareA		0
+D04	T_g-rareA		0
+D05	T_a-rareT	664	614
+D05	T_c-rareG	878	800
+D05	T_t-rareA		0
+D05	T_g-rareA		0
+D06	T_a-rareT	608	445
+D06	T_c-rareG	419	298
+D06	T_t-rareA		0
+D06	T_g-rareA		0
+D07	T_a-rareT	902	902
+D07	T_c-rareG	535	533
+D07	T_t-rareA		0
+D07	T_g-rareA		0
+D08	T_a-rareT	932	931
+D08	T_c-rareG	577	575
+D08	T_t-rareA		0
+D08	T_g-rareA		0
+D09	T_a-rareT	800	800
+D09	T_c-rareG	669	668
+D09	T_t-rareA		0
+D09	T_g-rareA		0
+D10	T_a-rareT	862	859
+D10	T_c-rareG	599	596
+D10	T_t-rareA		0
+D10	T_g-rareA		0
+D11	T_a-rareT	392	386
+D11	T_c-rareG	335	330
+D11	T_t-rareA		0
+D11	T_g-rareA		0
+D12	T_a-rareT	123	118
+D12	T_c-rareG	126	124
+D12	T_t-rareA		0
+D12	T_g-rareA		0
+E01	T_a-rareT		0
+E01	T_c-rareG		0
+E01	T_t-rareA	378	378
+E01	T_g-rareA		0
+E02	T_a-rareT		0
+E02	T_c-rareG		0
+E02	T_t-rareA	289	288
+E02	T_g-rareA		0
+E03	T_a-rareT		0
+E03	T_c-rareG		0
+E03	T_t-rareA	570	563
+E03	T_g-rareA		0
+E04	T_a-rareT		0
+E04	T_c-rareG		0
+E04	T_t-rareA	194	169
+E04	T_g-rareA		0
+E05	T_a-rareT		0
+E05	T_c-rareG		0
+E05	T_t-rareA	141	62
+E05	T_g-rareA		0
+E06	T_a-rareT		0
+E06	T_c-rareG		0
+E06	T_t-rareA	66	12
+E06	T_g-rareA		0
+E07	T_a-rareT	2	2
+E07	T_c-rareG		0
+E07	T_t-rareA	715	715
+E07	T_g-rareA		0
+E08	T_a-rareT		0
+E08	T_c-rareG		0
+E08	T_t-rareA	676	676
+E08	T_g-rareA		0
+E09	T_a-rareT		0
+E09	T_c-rareG		0
+E09	T_t-rareA	554	523
+E09	T_g-rareA		0
+E10	T_a-rareT		0
+E10	T_c-rareG		0
+E10	T_t-rareA	660	538
+E10	T_g-rareA		0
+E11	T_a-rareT		0
+E11	T_c-rareG		0
+E11	T_t-rareA	421	272
+E11	T_g-rareA		0
+E12	T_a-rareT		0
+E12	T_c-rareG		0
+E12	T_t-rareA	601	297
+E12	T_g-rareA		0
+F01	T_a-rareT		0
+F01	T_c-rareG		0
+F01	T_t-rareA	304	304
+F01	T_g-rareA		0
+F02	T_a-rareT		0
+F02	T_c-rareG		0
+F02	T_t-rareA	531	528
+F02	T_g-rareA		0
+F03	T_a-rareT		0
+F03	T_c-rareG		0
+F03	T_t-rareA	468	463
+F03	T_g-rareA		0
+F04	T_a-rareT		0
+F04	T_c-rareG		0
+F04	T_t-rareA	253	225
+F04	T_g-rareA		0
+F05	T_a-rareT		0
+F05	T_c-rareG		0
+F05	T_t-rareA	170	61
+F05	T_g-rareA		0
+F06	T_a-rareT		0
+F06	T_c-rareG		0
+F06	T_t-rareA	108	26
+F06	T_g-rareA		0
+F07	T_a-rareT	1	1
+F07	T_c-rareG		0
+F07	T_t-rareA	637	637
+F07	T_g-rareA		0
+F08	T_a-rareT	1	1
+F08	T_c-rareG		0
+F08	T_t-rareA	498	497
+F08	T_g-rareA		0
+F09	T_a-rareT		0
+F09	T_c-rareG		0
+F09	T_t-rareA	384	327
+F09	T_g-rareA		0
+F10	T_a-rareT		0
+F10	T_c-rareG		0
+F10	T_t-rareA	657	560
+F10	T_g-rareA		0
+F11	T_a-rareT		0
+F11	T_c-rareG		0
+F11	T_t-rareA	510	319
+F11	T_g-rareA		0
+F12	T_a-rareT		0
+F12	T_c-rareG		0
+F12	T_t-rareA	581	286
+F12	T_g-rareA		0
+G01	T_a-rareT	1	1
+G01	T_c-rareG	1	1
+G01	T_t-rareA	518	518
+G01	T_g-rareA		0
+G02	T_a-rareT		0
+G02	T_c-rareG		0
+G02	T_t-rareA	408	408
+G02	T_g-rareA		0
+G03	T_a-rareT		0
+G03	T_c-rareG		0
+G03	T_t-rareA	622	619
+G03	T_g-rareA		0
+G04	T_a-rareT		0
+G04	T_c-rareG		0
+G04	T_t-rareA	477	464
+G04	T_g-rareA		0
+G05	T_a-rareT		0
+G05	T_c-rareG		0
+G05	T_t-rareA	478	417
+G05	T_g-rareA		0
+G06	T_a-rareT		0
+G06	T_c-rareG		0
+G06	T_t-rareA	418	322
+G06	T_g-rareA		0
+G07	T_a-rareT		0
+G07	T_c-rareG		0
+G07	T_t-rareA	520	520
+G07	T_g-rareA		0
+G08	T_a-rareT		0
+G08	T_c-rareG		0
+G08	T_t-rareA	394	394
+G08	T_g-rareA		0
+G09	T_a-rareT		0
+G09	T_c-rareG		0
+G09	T_t-rareA	817	817
+G09	T_g-rareA		0
+G10	T_a-rareT		0
+G10	T_c-rareG		0
+G10	T_t-rareA	504	498
+G10	T_g-rareA		0
+G11	T_a-rareT		0
+G11	T_c-rareG		0
+G11	T_t-rareA	488	439
+G11	T_g-rareA		0
+G12	T_a-rareT		0
+G12	T_c-rareG		0
+G12	T_t-rareA	698	512
+G12	T_g-rareA		0
+H01	T_a-rareT		0
+H01	T_c-rareG		0
+H01	T_t-rareA	478	477
+H01	T_g-rareA		0
+H02	T_a-rareT		0
+H02	T_c-rareG		0
+H02	T_t-rareA	632	632
+H02	T_g-rareA		0
+H03	T_a-rareT		0
+H03	T_c-rareG		0
+H03	T_t-rareA	603	593
+H03	T_g-rareA		0
+H04	T_a-rareT		0
+H04	T_c-rareG		0
+H04	T_t-rareA	670	645
+H04	T_g-rareA		0
+H05	T_a-rareT		0
+H05	T_c-rareG		0
+H05	T_t-rareA	427	369
+H05	T_g-rareA		0
+H06	T_a-rareT		0
+H06	T_c-rareG		0
+H06	T_t-rareA	351	277
+H06	T_g-rareA		0
+H07	T_a-rareT		0
+H07	T_c-rareG		0
+H07	T_t-rareA	508	508
+H07	T_g-rareA		0
+H08	T_a-rareT		0
+H08	T_c-rareG		0
+H08	T_t-rareA	416	416
+H08	T_g-rareA		0
+H09	T_a-rareT		0
+H09	T_c-rareG		0
+H09	T_t-rareA	662	660
+H09	T_g-rareA		0
+H10	T_a-rareT		0
+H10	T_c-rareG		0
+H10	T_t-rareA	572	565
+H10	T_g-rareA		0
+H11	T_a-rareT		0
+H11	T_c-rareG		0
+H11	T_t-rareA	640	582
+H11	T_g-rareA		0
+H12	T_a-rareT		0
+H12	T_c-rareG		0
+H12	T_t-rareA	608	438
+H12	T_g-rareA		0
+A01	T_a-rareT	775	774
+A01	T_c-rareG	722	720
+A01	T_t-rareA		0
+A01	T_g-rareC		0
+A02	T_a-rareT	582	582
+A02	T_c-rareG	697	686
+A02	T_t-rareA		0
+A02	T_g-rareC		0
+A03	T_a-rareT	613	600
+A03	T_c-rareG	656	618
+A03	T_t-rareA		0
+A03	T_g-rareC		0
+A04	T_a-rareT	798	767
+A04	T_c-rareG	606	499
+A04	T_t-rareA		0
+A04	T_g-rareC		0
+A05	T_a-rareT	501	425
+A05	T_c-rareG	563	339
+A05	T_t-rareA		0
+A05	T_g-rareC		0
+A06	T_a-rareT	697	468
+A06	T_c-rareG	577	121
+A06	T_t-rareA		0
+A06	T_g-rareC		0
+A07	T_a-rareT	806	804
+A07	T_c-rareG	193	193
+A07	T_t-rareA		0
+A07	T_g-rareC		0
+A08	T_a-rareT	443	442
+A08	T_c-rareG	144	144
+A08	T_t-rareA		0
+A08	T_g-rareC		0
+A09	T_a-rareT	628	627
+A09	T_c-rareG	241	239
+A09	T_t-rareA		0
+A09	T_g-rareC		0
+A10	T_a-rareT	582	561
+A10	T_c-rareG	334	327
+A10	T_t-rareA		0
+A10	T_g-rareC		0
+A11	T_a-rareT	126	76
+A11	T_c-rareG	46	40
+A11	T_t-rareA		0
+A11	T_g-rareC		0
+A12	T_a-rareT	81	32
+A12	T_c-rareG	49	26
+A12	T_t-rareA		0
+A12	T_g-rareC		0
+B01	T_a-rareT	874	874
+B01	T_c-rareG	937	935
+B01	T_t-rareA		0
+B01	T_g-rareC	1	1
+B02	T_a-rareT	572	572
+B02	T_c-rareG	654	651
+B02	T_t-rareA		0
+B02	T_g-rareC		0
+B03	T_a-rareT	495	488
+B03	T_c-rareG	381	354
+B03	T_t-rareA		0
+B03	T_g-rareC		0
+B04	T_a-rareT	653	631
+B04	T_c-rareG	567	475
+B04	T_t-rareA		0
+B04	T_g-rareC		0
+B05	T_a-rareT	451	383
+B05	T_c-rareG	406	228
+B05	T_t-rareA		0
+B05	T_g-rareC		0
+B06	T_a-rareT	511	330
+B06	T_c-rareG	448	108
+B06	T_t-rareA		0
+B06	T_g-rareC		0
+B07	T_a-rareT	497	496
+B07	T_c-rareG	165	165
+B07	T_t-rareA		0
+B07	T_g-rareC		0
+B08	T_a-rareT	746	745
+B08	T_c-rareG	255	255
+B08	T_t-rareA		0
+B08	T_g-rareC		0
+B09	T_a-rareT	347	346
+B09	T_c-rareG	136	136
+B09	T_t-rareA		0
+B09	T_g-rareC		0
+B10	T_a-rareT	472	459
+B10	T_c-rareG	286	281
+B10	T_t-rareA		0
+B10	T_g-rareC		0
+B11	T_a-rareT	77	52
+B11	T_c-rareG	108	87
+B11	T_t-rareA		0
+B11	T_g-rareC		0
+B12	T_a-rareT	85	27
+B12	T_c-rareG	63	26
+B12	T_t-rareA		0
+B12	T_g-rareC		0
+C01	T_a-rareT	717	717
+C01	T_c-rareG	710	707
+C01	T_t-rareA	1	1
+C01	T_g-rareC	1	1
+C02	T_a-rareT	833	833
+C02	T_c-rareG	591	590
+C02	T_t-rareA	1	1
+C02	T_g-rareC	1	1
+C03	T_a-rareT	741	738
+C03	T_c-rareG	540	539
+C03	T_t-rareA		0
+C03	T_g-rareC		0
+C04	T_a-rareT	927	915
+C04	T_c-rareG	385	379
+C04	T_t-rareA		0
+C04	T_g-rareC		0
+C05	T_a-rareT	412	374
+C05	T_c-rareG	748	688
+C05	T_t-rareA		0
+C05	T_g-rareC		0
+C06	T_a-rareT	859	601
+C06	T_c-rareG	607	459
+C06	T_t-rareA		0
+C06	T_g-rareC		0
+C07	T_a-rareT	940	940
+C07	T_c-rareG	639	639
+C07	T_t-rareA		0
+C07	T_g-rareC		0
+C08	T_a-rareT	911	911
+C08	T_c-rareG	633	632
+C08	T_t-rareA		0
+C08	T_g-rareC	1	1
+C09	T_a-rareT	679	678
+C09	T_c-rareG	640	638
+C09	T_t-rareA		0
+C09	T_g-rareC		0
+C10	T_a-rareT	536	535
+C10	T_c-rareG	470	465
+C10	T_t-rareA	1	1
+C10	T_g-rareC		0
+C11	T_a-rareT	295	286
+C11	T_c-rareG	174	168
+C11	T_t-rareA		0
+C11	T_g-rareC		0
+C12	T_a-rareT	84	81
+C12	T_c-rareG	133	125
+C12	T_t-rareA		0
+C12	T_g-rareC		0
+D01	T_a-rareT	674	674
+D01	T_c-rareG	623	622
+D01	T_t-rareA		0
+D01	T_g-rareC	1	1
+D02	T_a-rareT	1106	1104
+D02	T_c-rareG	742	740
+D02	T_t-rareA		0
+D02	T_g-rareC		0
+D03	T_a-rareT	638	637
+D03	T_c-rareG	604	599
+D03	T_t-rareA		0
+D03	T_g-rareC		0
+D04	T_a-rareT	922	911
+D04	T_c-rareG	801	791
+D04	T_t-rareA		0
+D04	T_g-rareC		0
+D05	T_a-rareT	664	614
+D05	T_c-rareG	878	800
+D05	T_t-rareA		0
+D05	T_g-rareC		0
+D06	T_a-rareT	608	445
+D06	T_c-rareG	419	298
+D06	T_t-rareA		0
+D06	T_g-rareC		0
+D07	T_a-rareT	902	902
+D07	T_c-rareG	535	533
+D07	T_t-rareA		0
+D07	T_g-rareC		0
+D08	T_a-rareT	932	931
+D08	T_c-rareG	577	575
+D08	T_t-rareA		0
+D08	T_g-rareC		0
+D09	T_a-rareT	800	800
+D09	T_c-rareG	669	668
+D09	T_t-rareA		0
+D09	T_g-rareC		0
+D10	T_a-rareT	862	859
+D10	T_c-rareG	599	596
+D10	T_t-rareA		0
+D10	T_g-rareC		0
+D11	T_a-rareT	392	386
+D11	T_c-rareG	335	330
+D11	T_t-rareA		0
+D11	T_g-rareC		0
+D12	T_a-rareT	123	118
+D12	T_c-rareG	126	124
+D12	T_t-rareA		0
+D12	T_g-rareC		0
+E01	T_a-rareT		0
+E01	T_c-rareG		0
+E01	T_t-rareA	378	378
+E01	T_g-rareC	668	668
+E02	T_a-rareT		0
+E02	T_c-rareG		0
+E02	T_t-rareA	289	288
+E02	T_g-rareC	627	627
+E03	T_a-rareT		0
+E03	T_c-rareG		0
+E03	T_t-rareA	570	563
+E03	T_g-rareC	789	786
+E04	T_a-rareT		0
+E04	T_c-rareG		0
+E04	T_t-rareA	194	169
+E04	T_g-rareC	463	438
+E05	T_a-rareT		0
+E05	T_c-rareG		0
+E05	T_t-rareA	141	62
+E05	T_g-rareC	220	126
+E06	T_a-rareT		0
+E06	T_c-rareG		0
+E06	T_t-rareA	66	12
+E06	T_g-rareC	199	83
+E07	T_a-rareT	2	2
+E07	T_c-rareG		0
+E07	T_t-rareA	715	715
+E07	T_g-rareC	1340	1339
+E08	T_a-rareT		0
+E08	T_c-rareG		0
+E08	T_t-rareA	676	676
+E08	T_g-rareC	1095	1094
+E09	T_a-rareT		0
+E09	T_c-rareG		0
+E09	T_t-rareA	554	523
+E09	T_g-rareC	736	558
+E10	T_a-rareT		0
+E10	T_c-rareG		0
+E10	T_t-rareA	660	538
+E10	T_g-rareC	1255	742
+E11	T_a-rareT		0
+E11	T_c-rareG		0
+E11	T_t-rareA	421	272
+E11	T_g-rareC	1050	367
+E12	T_a-rareT		0
+E12	T_c-rareG		0
+E12	T_t-rareA	601	297
+E12	T_g-rareC	1026	262
+F01	T_a-rareT		0
+F01	T_c-rareG		0
+F01	T_t-rareA	304	304
+F01	T_g-rareC	806	806
+F02	T_a-rareT		0
+F02	T_c-rareG		0
+F02	T_t-rareA	531	528
+F02	T_g-rareC	1032	1030
+F03	T_a-rareT		0
+F03	T_c-rareG		0
+F03	T_t-rareA	468	463
+F03	T_g-rareC	897	895
+F04	T_a-rareT		0
+F04	T_c-rareG		0
+F04	T_t-rareA	253	225
+F04	T_g-rareC	724	681
+F05	T_a-rareT		0
+F05	T_c-rareG		0
+F05	T_t-rareA	170	61
+F05	T_g-rareC	310	194
+F06	T_a-rareT		0
+F06	T_c-rareG		0
+F06	T_t-rareA	108	26
+F06	T_g-rareC	307	132
+F07	T_a-rareT	1	1
+F07	T_c-rareG		0
+F07	T_t-rareA	637	637
+F07	T_g-rareC	945	945
+F08	T_a-rareT	1	1
+F08	T_c-rareG		0
+F08	T_t-rareA	498	497
+F08	T_g-rareC	820	818
+F09	T_a-rareT		0
+F09	T_c-rareG		0
+F09	T_t-rareA	384	327
+F09	T_g-rareC	784	600
+F10	T_a-rareT		0
+F10	T_c-rareG		0
+F10	T_t-rareA	657	560
+F10	T_g-rareC	1105	680
+F11	T_a-rareT		0
+F11	T_c-rareG		0
+F11	T_t-rareA	510	319
+F11	T_g-rareC	808	267
+F12	T_a-rareT		0
+F12	T_c-rareG		0
+F12	T_t-rareA	581	286
+F12	T_g-rareC	931	258
+G01	T_a-rareT	1	1
+G01	T_c-rareG	1	1
+G01	T_t-rareA	518	518
+G01	T_g-rareC	725	724
+G02	T_a-rareT		0
+G02	T_c-rareG		0
+G02	T_t-rareA	408	408
+G02	T_g-rareC	685	685
+G03	T_a-rareT		0
+G03	T_c-rareG		0
+G03	T_t-rareA	622	619
+G03	T_g-rareC	985	985
+G04	T_a-rareT		0
+G04	T_c-rareG		0
+G04	T_t-rareA	477	464
+G04	T_g-rareC	1121	1120
+G05	T_a-rareT		0
+G05	T_c-rareG		0
+G05	T_t-rareA	478	417
+G05	T_g-rareC	877	870
+G06	T_a-rareT		0
+G06	T_c-rareG		0
+G06	T_t-rareA	418	322
+G06	T_g-rareC	1107	1077
+G07	T_a-rareT		0
+G07	T_c-rareG		0
+G07	T_t-rareA	520	520
+G07	T_g-rareC	745	745
+G08	T_a-rareT		0
+G08	T_c-rareG		0
+G08	T_t-rareA	394	394
+G08	T_g-rareC	817	814
+G09	T_a-rareT		0
+G09	T_c-rareG		0
+G09	T_t-rareA	817	817
+G09	T_g-rareC	1190	1178
+G10	T_a-rareT		0
+G10	T_c-rareG		0
+G10	T_t-rareA	504	498
+G10	T_g-rareC	811	735
+G11	T_a-rareT		0
+G11	T_c-rareG		0
+G11	T_t-rareA	488	439
+G11	T_g-rareC	923	608
+G12	T_a-rareT		0
+G12	T_c-rareG		0
+G12	T_t-rareA	698	512
+G12	T_g-rareC	1070	516
+H01	T_a-rareT		0
+H01	T_c-rareG		0
+H01	T_t-rareA	478	477
+H01	T_g-rareC	606	606
+H02	T_a-rareT		0
+H02	T_c-rareG		0
+H02	T_t-rareA	632	632
+H02	T_g-rareC	999	999
+H03	T_a-rareT		0
+H03	T_c-rareG		0
+H03	T_t-rareA	603	593
+H03	T_g-rareC	793	792
+H04	T_a-rareT		0
+H04	T_c-rareG		0
+H04	T_t-rareA	670	645
+H04	T_g-rareC	1549	1543
+H05	T_a-rareT		0
+H05	T_c-rareG		0
+H05	T_t-rareA	427	369
+H05	T_g-rareC	786	776
+H06	T_a-rareT		0
+H06	T_c-rareG		0
+H06	T_t-rareA	351	277
+H06	T_g-rareC	1109	1075
+H07	T_a-rareT		0
+H07	T_c-rareG		0
+H07	T_t-rareA	508	508
+H07	T_g-rareC	748	747
+H08	T_a-rareT		0
+H08	T_c-rareG		0
+H08	T_t-rareA	416	416
+H08	T_g-rareC	1035	1034
+H09	T_a-rareT		0
+H09	T_c-rareG		0
+H09	T_t-rareA	662	660
+H09	T_g-rareC	1038	1027
+H10	T_a-rareT		0
+H10	T_c-rareG		0
+H10	T_t-rareA	572	565
+H10	T_g-rareC	996	910
+H11	T_a-rareT		0
+H11	T_c-rareG		0
+H11	T_t-rareA	640	582
+H11	T_g-rareC	961	632
+H12	T_a-rareT		0
+H12	T_c-rareG		0
+H12	T_t-rareA	608	438
+H12	T_g-rareC	1154	585
