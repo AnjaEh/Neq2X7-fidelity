@@ -15,5 +15,6 @@ __pycache__/
 *.html
 *.fastq.gz
 *.fastq
+*.yml
 
 
