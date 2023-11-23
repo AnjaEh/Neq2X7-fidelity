@@ -1,0 +1,19 @@
+#gitignore file for Neq2x7 project repository
+
+__pycache__/
+*.py[cod]
+
+*.bam
+*.sam
+*.bai
+*.txt
+*.bt2
+*.fasta
+*.fai
+
+*.json
+*.html
+*.fastq.gz
+*.fastq
+
+
