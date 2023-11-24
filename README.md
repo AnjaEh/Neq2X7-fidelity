@@ -2,7 +2,7 @@
 Data analysis MagNIFI assay Neq2X7 DNA polymerase
 
 Platform: Ubuntu 22.04.1 LTS  (Windows subsystem for Linux)  
-Raw sequencing data found in folder: Neq2X7/FASTQ_Generation_2023-07-18  
+Raw sequencing data found in folder: Neq2X7/FASTQ_Generation_2023-07-18 <br>
 Well assignment: metadata.csv
 
 Data analysis pipeline:  
